@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/page_homme"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav">
+
+    <fragment
+        android:id="@+id/page_homme"
+        android:name="com.itu.test.homeFragment"
+        tools:layout="@layout/fragment_home"/>
+
+
+    <fragment
+        android:id="@+id/page_favorite"
+        android:name="com.itu.test.favoritosFragment"
+        tools:layout="@layout/fragment_favoritos"/>
+
+    <fragment
+        android:id="@+id/page_invite"
+        android:name="com.itu.test.invitarFragment"
+        tools:layout="@layout/fragment_invitar"/>
+</navigation>

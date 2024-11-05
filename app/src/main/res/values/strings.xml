@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BussEste</string>
+    <string name="nueva_generacion">Nueva Generacion</string>
+    <string name="dicettours">Dicettours</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a_que_hora_pasa">¿A Que Hora Pasa?</string>
+    <string name="recorridos">Recorridos</string>
+    <string name="mapa">Mapa</string>
+    <string name="nwdc">nwdc</string>
+    <string name="recorrido">recorrido</string>
+    <string name="item_text">Item Text</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="d_a">Día</string>
+    <string name="horarios">Horarios</string>
+
+</resources>
